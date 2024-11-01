@@ -8,7 +8,7 @@ php artisan make:controller ControllerName -r
 
 
 ## Database Migration
-php artisan migrate
+php artisan db:seed
 
 
 ## create a new migration
